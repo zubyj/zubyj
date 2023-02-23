@@ -3,10 +3,7 @@
 
 I love making all types of apps - web apps, mobile apps, desktop apps, you name it. I recently graduated with a B.S in Computer Science. One of my goals for 2023 is to contribute to open-source projects. 
 
- I'm currently searching for a software engineering position
-
-<a href="#" class="button">Post comment (link)</a>
-
+### **I'm currently searching for a software engineering position**
 
 ## 💻 Cool projects I made
 ---
