@@ -1,15 +1,17 @@
 # Hi there, I'm Zuby! Software Engineer 👋
 
- I'm currently searching for a software engineering position
-
- ---
 
 I love making all types of apps - web apps, mobile apps, desktop apps, you name it. I recently graduated with a B.S in Computer Science. One of my goals for 2023 is to contribute to open-source projects. 
+
+ I'm currently searching for a software engineering position
+
+<a href="#" class="button">Post comment (link)</a>
+
 
 ## 💻 Cool projects I made
 ---
 
-- 📷 [MyMorph](https://https://apps.apple.com/us/app/mymorph/id1554421298) - iOS app that morphs two faces together using computer vision (13k downloads on the iOS App Store) 
+- 📷 [MyMorph](https://apps.apple.com/us/app/mymorph/id1554421298) - iOS app that morphs two faces together using computer vision (13k downloads on the iOS App Store) 
 
 - ⏱️ [iCare Countdown Timer](https://icaretimer.com/) - Windows/MacOS app that lets users set intervals to take breaks 
 
