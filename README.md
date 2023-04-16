@@ -6,7 +6,7 @@
 
 [📚 Leetcode Explained](https://chrome.google.com/webstore/detail/leetcode-explained/cofoinjfjcpgcjiinjhcpomcjoalijbe)
 
-- Chrome extension that adds solution videos to Leetcode problems. This project is open-source.
+- Chrome extension that adds solution videos to Leetcode problems.
 - [View code](https://github.com/zubyj/leetcode-explained)
 
 📷 [MyMorph](https://apps.apple.com/us/app/mymorph/id1554421298)
