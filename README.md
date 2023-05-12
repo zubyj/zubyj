@@ -9,6 +9,7 @@
 - Chrome extension that adds solution videos to Leetcode problems.
 - [View code](https://github.com/zubyj/leetcode-explained)
 
+
 📷 [MyMorph](https://apps.apple.com/us/app/mymorph/id1554421298)
 
 - iOS app that morphs two faces together using computer vision
@@ -23,6 +24,11 @@
 
 - Rest API for getting lines from NBC's, _The Office_.
 - [View Code](https://github.com/zubyj/the-office-api)
+
+😃 [FaceMorph Quiz](https://github.com/zubyj/facemorph-quiz/blob/main/README.md)
+- iOS app that morphs your face with a random historical figure and makes you guess the person. Coming soon to the iOS App Store.
+- [View Code](https://github.com/zubyj/facemorph-quiz)
+
 
 🏥 [appnaca.org](https://appnaca.org)
 
