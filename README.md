@@ -6,7 +6,7 @@
 
 [📚 Leetcode Explained](https://chrome.google.com/webstore/detail/leetcode-explained/cofoinjfjcpgcjiinjhcpomcjoalijbe)
 
-- Chrome extension that adds solution videos to Leetcode problems.
+- Chrome extension that adds solution videos, company tags, and GPT code analysis into Leetcode problems.
 - [View code](https://github.com/zubyj/leetcode-explained)
 
 
