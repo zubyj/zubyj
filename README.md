@@ -38,9 +38,7 @@
 
 ---
 
-Currently loving making web, mobile, and desktop apps. Still learning the ropes but getting better very day. Stay tuned for more.
-
-🤔 Software Engineer
+Software Engineer
 
 📚 B.S in Comp Sci at SJSU
 
