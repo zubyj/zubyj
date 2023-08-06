@@ -42,7 +42,7 @@ Currently loving making web, mobile, and desktop apps. Still learning the ropes 
 
 🤔 Software Engineer
 
-📚 CS @ SJSU
+📚 B.S in Comp Sci at SJSU
 
 🖥️ Open to SWE positions
 
