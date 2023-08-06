@@ -5,7 +5,7 @@
 ---
 
 📚 Leetcode Explained
-- Chrome extension that adds solution videos, company tags, and GPT code analysis into Leetcode problems.
+- Open source browser extension that adds solution videos, company tags, and GPT code analysis into Leetcode problems.
 - [View Project](https://chrome.google.com/webstore/detail/leetcode-explained/cofoinjfjcpgcjiinjhcpomcjoalijbe) | [View code](https://github.com/zubyj/leetcode-explained)
 
 📷 MyMorph
@@ -17,6 +17,11 @@
 - Windows/MacOS app that lets users set intervals to take breaks.
 - [View Project](https://icaretimer.com/) | [View Code](https://github.com/icare-app)
 
+🎤 Speech to Text for ChatGPT
+- Chrome extension that adds a speech to text microphone and popular bash commands into the ChatGPT website
+- [View Project](https://chrome.google.com/webstore/detail/speech-to-text-for-chatgp/kplchkeabimhnpklakhhocnhegidpcel?hl=en&authuser=1)) | [View Code](https://github.com/zubyj/speech-to-text-for-chatgpt)
+
+- 
 💼 The Office Script API
 - Rest API for getting lines from NBC's, _The Office_.
 - [View Project](https://theofficescript.com/) | [View Code](https://github.com/zubyj/the-office-api)
