@@ -19,9 +19,8 @@
 
 🎤 Speech to Text for ChatGPT
 - Chrome extension that adds a speech to text microphone and popular bash commands into the ChatGPT website
-- [View Project](https://chrome.google.com/webstore/detail/speech-to-text-for-chatgp/kplchkeabimhnpklakhhocnhegidpcel?hl=en&authuser=1)) | [View Code](https://github.com/zubyj/speech-to-text-for-chatgpt)
+- [View Project](https://chrome.google.com/webstore/detail/speech-to-text-for-chatgp/kplchkeabimhnpklakhhocnhegidpcel?hl=en&authuser=1) | [View Code](https://github.com/zubyj/speech-to-text-for-chatgpt)
 
-- 
 💼 The Office Script API
 - Rest API for getting lines from NBC's, _The Office_.
 - [View Project](https://theofficescript.com/) | [View Code](https://github.com/zubyj/the-office-api)
