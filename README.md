@@ -4,36 +4,31 @@
 
 ---
 
-[📚 Leetcode Explained](https://chrome.google.com/webstore/detail/leetcode-explained/cofoinjfjcpgcjiinjhcpomcjoalijbe)
-
+📚 Leetcode Explained
 - Chrome extension that adds solution videos, company tags, and GPT code analysis into Leetcode problems.
-- [View code](https://github.com/zubyj/leetcode-explained)
+- [View Project](https://chrome.google.com/webstore/detail/leetcode-explained/cofoinjfjcpgcjiinjhcpomcjoalijbe) | [View code](https://github.com/zubyj/leetcode-explained)
 
-
-📷 [MyMorph](https://apps.apple.com/us/app/mymorph/id1554421298)
-
+📷 MyMorph
 - iOS app that morphs two faces together using computer vision
 - Currently 13k downloads on the iOS App Store
+- [View Project](https://apps.apple.com/us/app/mymorph/id1554421298)
 
-⏱️ [iCare Countdown Timer](https://icaretimer.com/)
-
+⏱️ iCare Countdown Timer
 - Windows/MacOS app that lets users set intervals to take breaks.
-- [View Code](https://github.com/icare-app)
+- [View Project](https://icaretimer.com/) | [View Code](https://github.com/icare-app)
 
-💼 [The Office Script API](https://theofficescript.com/)
-
+💼 The Office Script API
 - Rest API for getting lines from NBC's, _The Office_.
-- [View Code](https://github.com/zubyj/the-office-api)
+- [View Project](https://theofficescript.com/) | [View Code](https://github.com/zubyj/the-office-api)
 
-😃 [FaceMorph Quiz](https://github.com/zubyj/facemorph-quiz/blob/main/README.md)
+😃 FaceMorph Quiz
 - iOS app that morphs your face with a random historical figure and makes you guess the person. Coming soon to the iOS App Store.
 - [View Code](https://github.com/zubyj/facemorph-quiz)
 
-
-🏥 [appnaca.org](https://appnaca.org)
-
+🏥 appnaca.org
 - Main website for a nonprofit medical organization located in the Bay Area
-- [View Code](https://github.com/zubyj/appnaca.org)
+- [View Project](https://appnaca.org) | [View Code](https://github.com/zubyj/appnaca.org)
+
 
 ## 💬 About Me
 
