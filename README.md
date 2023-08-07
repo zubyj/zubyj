@@ -33,6 +33,7 @@
 - Main website for a nonprofit medical organization located in the Bay Area
 - [View Project](https://appnaca.org) | [View Code](https://github.com/zubyj/appnaca.org)
 
+![Profile Views](https://komarev.com/ghpvc/?username=zubyj)
 
 ## 💬 About Me
 
