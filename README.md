@@ -14,7 +14,7 @@
 - Currently 13k downloads on the iOS App Store
 - [View Project](https://apps.apple.com/us/app/mymorph/id1554421298)
 
-- 🎤 Speech to Text for ChatGPT
+🎤 Speech to Text for ChatGPT
 - Chrome extension that adds a speech to text microphone and popular bash commands into the ChatGPT website
 - Currently over 4 (loyal) users. I think one of them is me though
 - [View Project](https://chrome.google.com/webstore/detail/speech-to-text-for-chatgp/kplchkeabimhnpklakhhocnhegidpcel?hl=en&authuser=1) | [View Code](https://github.com/zubyj/speech-to-text-for-chatgpt)
