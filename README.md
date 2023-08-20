@@ -6,7 +6,7 @@
 
 📚 Leetcode Explained
 - Open source browser extension that adds solution videos, company tags, and GPT code analysis into Leetcode problems.
-- Currently over 800 daily active users
+- Currently over 1k daily active users
 - [View Project](https://chrome.google.com/webstore/detail/leetcode-explained/cofoinjfjcpgcjiinjhcpomcjoalijbe) | [View code](https://github.com/zubyj/leetcode-explained)
 
 📷 MyMorph
