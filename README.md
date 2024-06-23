@@ -1,9 +1,11 @@
 ## Hi there, I'm Zuby 👋
-Software Engineer | CS @ SJSU
+### Software Engineer | CS @ SJSU
 
 SJSU graduate with a strong web development and mobile app design foundation, seeking a full-time software engineering position.
 
-### Projects
+<br />
+
+## Projects
 
 #### 📚 Leetcode Explained
 ![Downloads](https://img.shields.io/chrome-web-store/users/cofoinjfjcpgcjiinjhcpomcjoalijbe)
@@ -70,10 +72,12 @@ SJSU graduate with a strong web development and mobile app design foundation, se
 - React Native, Javascript, Expo
 
 
+
+<hr />
+
+
+
 ## Skills
-
-
-
 ##### Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
@@ -81,7 +85,6 @@ SJSU graduate with a strong web development and mobile app design foundation, se
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
 ##### Frameworks:
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=Node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
@@ -90,7 +93,6 @@ SJSU graduate with a strong web development and mobile app design foundation, se
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white)
 ![ElectronJS](https://img.shields.io/badge/-ElectronJS-47848F?style=flat&logo=electron&logoColor=white)
 ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white)
-
 ##### Technologies:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
