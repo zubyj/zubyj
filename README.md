@@ -73,10 +73,6 @@ SJSU graduate with a strong web development and mobile app design foundation, se
 
 
 
-<hr />
-
-
-
 ## Skills
 ##### Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
