@@ -1,8 +1,6 @@
 ## Hi there, I'm Zuby 👋
 ### Software Engineer | CS @ SJSU
 
-SJSU graduate with a strong web development and mobile app design foundation, seeking a full-time software engineering position.
-
 <br />
 
 ## Projects
