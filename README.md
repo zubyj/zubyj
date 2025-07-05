@@ -1,90 +1,69 @@
 ## Hi there, I'm Zuby 👋
-### Software Engineer | CS @ SJSU
 
-<br />
+- Software Engineer
+- CS @ SJSU
+- Building stuff I think is cool 🦑 
+
 
 ## Projects
-
 #### 📚 Leetcode Explained
+- Free, open source browser extension with **15k+ users** 
+- Adds solution code, video walkthroughs, and company tags to each Leetcode problem. 
+- Think LC Premium but free instead of $35/month
+
 ![Downloads](https://img.shields.io/chrome-web-store/users/cofoinjfjcpgcjiinjhcpomcjoalijbe)
 ![Version](https://img.shields.io/chrome-web-store/v/cofoinjfjcpgcjiinjhcpomcjoalijbe) 
 
-[Website](https://leetcodeapp.com) |
-[Chrome Web Store](https://chrome.google.com/webstore/detail/leetcode-explained/cofoinjfjcpgcjiinjhcpomcjoalijbe) 
-| [Code](https://github.com/zubyj/leetcode-explained)
+[Website](https://leetcodeapp.com)
+ • [Code](https://github.com/zubyj/leetcode-explained) 
+ • [Download](https://chrome.google.com/webstore/detail/leetcode-explained/cofoinjfjcpgcjiinjhcpomcjoalijbe) 
 
-- Created a browser extension with currently over 10,000 daily active users that enhances Leetcode problems with the solution code, videos, and sorting problems by company
-- A free, open source alternative to Leetcode Premium, saving users an estimated $35,000 monthly
-- Typescript, Javascript, Python
-
-
-
-#### 🎵 What's the Tab
-[Website](https://apps.apple.com/us/app/mymorph/id1554421298)
-- Developed the frontend for a web app that converts mp3s to sheet music using AI
-- Recognized among the top 10% applicants for YCombinator Summer 2024
-
-
+<hr>
 
 #### 📷 MyMorph iOS App
+
+- Created the frontend for a mobile app with over 15,000 downloads on the iOS App Store
+- Morphs two faces/selfies utilizing computer vision
+
 [iOS App Store](https://apps.apple.com/us/app/mymorph/id1554421298)
-- Built the frontend for a mobile app with over 15,000 downloads on the iOS App Store that takes two selfies and morphs the faces
-- React Native, Javascript, Expo
 
-
-
-#### 🏥 appnaca.org
-[Website](https://appnaca.org) | [Code](https://github.com/zubyj/appnaca.org)
-- Main website for a nonprofit medical organization located in the Bay Area
-- Bootstrap, Javascript, ExpressJS, NodeJS, HTML/CSS
-
-
+<hr>
 
 #### 🎤 Speech to Text for ChatGPT
+- Adds speech to text into chatgpt.com
+
+- 🪦 Sunsetted — OpenAI added native support in April 2025.
+
 ![Downloads](https://img.shields.io/chrome-web-store/users/kplchkeabimhnpklakhhocnhegidpcel)
 ![Version](https://img.shields.io/chrome-web-store/v/kplchkeabimhnpklakhhocnhegidpcel) 
 
-[Chrome Web Store ](https://chrome.google.com/webstore/detail/speech-to-text-for-chatgp/kplchkeabimhnpklakhhocnhegidpcel?hl=en&authuser=1) | [Code](https://github.com/zubyj/speech-to-text-for-chatgpt)
-- Chrome extension that adds a speech to text microphone and popular bash commands into the ChatGPT website
-- Typescript, Javascript, HTML/CSS
+[Download](https://chrome.google.com/webstore/detail/speech-to-text-for-chatgp/kplchkeabimhnpklakhhocnhegidpcel?hl=en&authuser=1) 
+• [Code](https://github.com/zubyj/speech-to-text-for-chatgpt)
 
+<hr>
 
+#### 🎵 What's the Tab
+- Created the frontend for an AI webapp that converts mp3s to sheet music
+- Recognized among the top 10% applicants for YCombinator Summer 2024
+
+[Website](https://apps.apple.com/us/app/mymorph/id1554421298)
+
+<hr>
+
+#### 🏥 appnaca.org
+- Created the website for a nonprofit medical organization located in the Bay Area
+[Website](https://appnaca.org) • [Code](https://github.com/zubyj/appnaca.org)
+
+<hr>
 
 #### ⏱️ iCare Timer
-[Website](https://icaretimer.com/) | [Code](https://github.com/icare-app)
 - Led a team of 5 developers for a senior project, facilitating biweekly scrum meetings and code reviews to launch a smart countdown timer desktop app
-- ElectronJS,ReactJS, MySQL, DigitalOcean
+[Website](https://icaretimer.com/) • [Code](https://github.com/icare-app)
 
+<hr>
 
-
-#### 💼 The Office Script API
-[Website](https://theofficescript.com/) | [Code](https://github.com/zubyj/the-office-api)
-- Rest API for talking to characters from NBC's "The Office"
-- VueJS, ExpressJS, PostgreSQL, NodeJS, AWS RDS, Twilio Segment
-
-
-
-#### 😃 FaceMorph Quiz
-[Code](https://github.com/zubyj/facemorph-quiz)
-- iOS app that morphs your face with a random historical figure and makes you guess the person. Coming soon to the iOS App Store.
-- React Native, Javascript, Expo
-
-
-
-<br />
-
-
-
-## Skills
-##### Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-##### Frameworks:
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=Node.js&logoColor=white)
+<!-- ##### Frameworks: -->
+<!-- ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=Node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express&logoColor=white)
@@ -114,4 +93,4 @@
 
 
 
-
+ -->
